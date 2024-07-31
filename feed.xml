@@ -3,24 +3,12 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-07-31T15:05:35+02:00</updated>
+    <updated>2024-07-31T13:31:18+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
     <id>https://farmawzrostu.com</id>
 
-    <entry>
-        <title>                    Warsztaty</title>
-        <author>
-            <name>Wojciech Napiórkowski</name>
-        </author>
-        <link href="https://farmawzrostu.com/warsztaty.html"/>
-        <id>https://farmawzrostu.com/warsztaty.html</id>
-
-        <updated>2024-07-31T14:45:05+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>                     Pytania i odpowiedzi</title>
         <author>
