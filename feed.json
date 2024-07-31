@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://farmawzrostu.com/warsztaty.html",
+            "url": "https://farmawzrostu.com/warsztaty.html",
+            "title": "Warsztaty",
+            "author": {
+                "name": "Wojciech Napiórkowski"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-31T14:45:05+02:00",
+            "date_modified": "2024-07-31T14:45:05+02:00"
+        },
+        {
             "id": "https://farmawzrostu.com/pytania-i-odpowiedzi.html",
             "url": "https://farmawzrostu.com/pytania-i-odpowiedzi.html",
             "title": "                     Pytania i odpowiedzi",
