@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-08-02T14:02:53+02:00</updated>
+    <updated>2024-08-02T14:32:07+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -101,13 +101,24 @@
             <summary>
                 <![CDATA[
                         <img src="https://farmawzrostu.com/media/posts/4/lisc.JPG" alt="" />
-                    Zanurzeni w życiodajnych relacjach dzielimy się doświadczeniem i inspirujemy do odnajdywania życia w obfitości Jesteś na tej stronie, to to jest Twoja szansa na lepsze, bardziej satysfakcjonujące życie. Większość z&hellip;
+                    Jesteś na tej stronie, to to jest Twoja szansa na lepsze, bardziej satysfakcjonujące życie. Większość z nas szuka po omacku tego, co jest dla niego istotne, często ucząc się na&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://farmawzrostu.com/media/posts/4/lisc.JPG" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/4/Razem_home.jpg" alt="" width="276" height="413" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/4/responsive/Razem_home-xs.jpg 300w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-sm.jpg 480w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-md.jpg 768w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-lg.jpg 1024w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-xl.jpg 1360w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-2xl.jpg 1600w"></figure>
+                <!-- Google tag (gtag.js) -->
+<p>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PN7RERQF6G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PN7RERQF6G');
+</script>
+</p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/4/Razem_home.jpg" alt="" width="276" height="413" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/4/responsive/Razem_home-xs.jpg 300w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-sm.jpg 480w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-md.jpg 768w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-lg.jpg 1024w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-xl.jpg 1360w ,https://farmawzrostu.com/media/posts/4/responsive/Razem_home-2xl.jpg 1600w"></figure>
 <h3 class="align-center"><span style="color: #169179;"><em><strong>Zanurzeni w życiodajnych relacjach dzielimy się doświadczeniem i inspirujemy do odnajdywania życia w obfitości</strong></em></span></h3>
 <p>Jesteś na tej stronie, to to jest Twoja szansa na <span style="color: #169179;"><strong>lepsze, bardziej satysfakcjonujące życie</strong>.</span> Większość z nas szuka po omacku tego, co jest dla niego istotne, często ucząc się na błędach. Bywa, też i tak, że tych błędów nie widzi w ogóle i nie jest w stanie ruszyć dalej.</p>
 <p>Może <span style="color: #169179;"><strong>czujesz wręcz, że Twoja sytuacja cię przerasta i nie masz w sobie dość siły, żeby się wyrwać, żeby coś zmienić?</strong></span> Partner, dzieci, dom, praca, pieniądze, samorealizacja, wiara - nie czujesz w jakimś obszarze swojego życia spełnienia? Marzy Ci się coś więcej niż masz dziś?</p>
@@ -115,25 +126,25 @@
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 99.8575%;">
+<td class="align-center" style="width: 99.8575%;">
 <p class="align-center"><span style="color: #169179;"><strong>INDYWIDUALNE SESJE ROZWOJOWE</strong></span></p>
 znajdź swój sweetspot<br>odkryj swoje talenty</td>
 </tr>
 <tr>
 <td style="width: 99.8575%;">
 <p class="align-center"><span style="color: #169179;"><strong>WARSZTATY DLA MAŁŻEŃSTW</strong></span></p>
-<p>odśwież związek, pogłębij relację -warsztaty tematyczne z pracą indywidualną w parze </p>
+<p class="align-center">odśwież związek, pogłębij relację -warsztaty tematyczne z pracą indywidualną w parze </p>
 </td>
 </tr>
 <tr>
 <td style="width: 99.8575%;">
 <h6 class="align-center"><span style="color: #169179;">BUSINESS COACHING</span></h6>
-<p class="align-left">wybierasz i pracujesz nad obszarami biznesu, które chcesz rozwinąć lub razem szukamy najlepszych opcji  zmian</p>
+<p class="align-center">wybierasz i pracujesz nad obszarami biznesu, które chcesz rozwinąć lub razem szukamy najlepszych opcji  zmian</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Jeżeli jesteś gotowy na zmiany i chcesz zainwestować w swój rozwój, <span style="color: #169179;"><a href="https://farmawzrostu.com/kontakt.html" style="color: #169179;">skontaktuj </a></span>się z nami już dziś.</p>
+<p>Jeżeli jesteś gotowy na zmiany i chcesz zainwestować w swój rozwój, <span style="color: #169179;"><a href="https://farmawzrostu.com/kontakt.html" style="color: #169179;">skontaktuj </a></span>się  już dziś.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
 <p> </p>
             ]]>
@@ -201,6 +212,7 @@ znajdź swój sweetspot<br>odkryj swoje talenty</td>
 <p>WOJCIECH</p>
 <p><strong>Jestem,</strong></p>
 <p>certyfikowanym praktykiem coachingu.  Urodzony i żyjący w Gdańsku. W bagażu doświadczeń posiadam 30-letni staż w biznesie - pracy polegającej na zarządzaniu i organizowaniu, przy ciągłej współpracy z ludźmi.  Jestem wieloletnim organizatorem i prelegentem kursów/ warsztatów dla małżeństw i narzeczonych.  Z wykształcenia architekt. Coach chrześcijański z powołania.Prawie 30 lat życia w szczęśliwym związku małżeńskim, to kolejny aspekt mojego życia. Spełniony ojciec dwóch wspaniałych synów.</p>
+<p> </p>
 <p> </p>
 </td>
 <td style="width: 49.89%;">
