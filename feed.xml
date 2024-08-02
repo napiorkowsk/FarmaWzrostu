@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-08-01T12:19:42+02:00</updated>
+    <updated>2024-08-02T13:32:06+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -111,22 +111,24 @@
 <h3 class="align-center"><span style="color: #169179;"><em><strong>Zanurzeni w życiodajnych relacjach dzielimy się doświadczeniem i inspirujemy do odnajdywania życia w obfitości</strong></em></span></h3>
 <p>Jesteś na tej stronie, to to jest Twoja szansa na <span style="color: #169179;"><strong>lepsze, bardziej satysfakcjonujące życie</strong>.</span> Większość z nas szuka po omacku tego, co jest dla niego istotne, często ucząc się na błędach. Bywa, też i tak, że tych błędów nie widzi w ogóle i nie jest w stanie ruszyć dalej.</p>
 <p>Może <span style="color: #169179;"><strong>czujesz wręcz, że Twoja sytuacja cię przerasta i nie masz w sobie dość siły, żeby się wyrwać, żeby coś zmienić?</strong></span> Partner, dzieci, dom, praca, pieniądze, samorealizacja, wiara - nie czujesz w jakimś obszarze swojego życia spełnienia? Marzy Ci się coś więcej niż masz dziś?</p>
-<p><span style="color: #169179;"><strong>To można zmienić! To Ty możesz zmienić!</strong></span></p>
-<table class="align-center" style="border-collapse: collapse; width: 99.0028%; height: 125.609px;" border="0,5" cellspacing="0,5">
+<p><span style="color: #95a5a6;"><strong>To można zmienić! To Ty możesz zmienić!</strong></span></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-<tr style="height: 125.609px;">
-<td class="align-center" style="width: 32.6316%; height: 125.609px;">
-<p><span style="color: #169179;"><strong>INDYWIDUALNE SESJE ROZWOJOWE</strong></span></p>
-<p>znajdź swój sweetspot</p>
-<p>odkryj swoje talenty</p>
-</td>
-<td style="width: 33.2331%; height: 125.609px;">
-<p><span style="color: #169179;"><strong>WARSZTATY DLA PAR</strong></span></p>
+<tr>
+<td style="width: 99.8575%;">
+<p class="align-center"><span style="color: #169179;"><strong>INDYWIDUALNE SESJE ROZWOJOWE</strong></span></p>
+znajdź swój sweetspot<br>odkryj swoje talenty</td>
+</tr>
+<tr>
+<td style="width: 99.8575%;">
+<p class="align-center"><span style="color: #169179;"><strong>WARSZTATY DLA MAŁŻEŃSTW</strong></span></p>
 <p>odśwież związek, pogłębij relację -warsztaty tematyczne z pracą indywidualną w parze </p>
 </td>
-<td style="width: 34.1353%; height: 125.609px;">
+</tr>
+<tr>
+<td style="width: 99.8575%;">
 <h6 class="align-center"><span style="color: #169179;">BUSINESS COACHING</span></h6>
-<p> wybierasz i pracujesz nad obszarami biznesu, które chcesz rozwinąć lub razem szukamy najlepszych opcji  zmian</p>
+<p class="align-left">wybierasz i pracujesz nad obszarami biznesu, które chcesz rozwinąć lub razem szukamy najlepszych opcji  zmian</p>
 </td>
 </tr>
 </tbody>
