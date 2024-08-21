@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://farmawzrostu.com/konkrety.html",
+            "url": "https://farmawzrostu.com/konkrety.html",
+            "title": "                     Konkrety",
+            "author": {
+                "name": "Wojciech Napiórkowski"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-21T16:04:58+02:00",
+            "date_modified": "2024-08-21T16:05:07+02:00"
+        },
+        {
             "id": "https://farmawzrostu.com/pytania-i-odpowiedzi.html",
             "url": "https://farmawzrostu.com/pytania-i-odpowiedzi.html",
             "title": "                     Pytania i odpowiedzi",
