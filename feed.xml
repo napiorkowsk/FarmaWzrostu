@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-09-11T15:12:09+02:00</updated>
+    <updated>2024-09-11T15:15:48+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -243,7 +243,7 @@ znajdź swój sweetspot<br>odkryj swoje talenty</td>
 <p> </p>
 <p>Opłaty:</p>
 <p>nr konta: <span style="color: #169179;">11 1140 2004 0000 3702 8515 5960</span></p>
-<p>W tytule przelewu proszę podać swoje imię i nazwisko osoby do coachingu i nazwę pakietu</p>
+<p><span style="color: #ced4d9;"><em>W tytule przelewu proszę podać swoje imię i nazwisko osoby do coachingu i nazwę pakietu</em></span></p>
             ]]>
         </content>
     </entry>
