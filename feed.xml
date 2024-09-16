@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-09-16T18:30:00+02:00</updated>
+    <updated>2024-09-16T18:32:53+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -22,14 +22,20 @@
             <summary>
                 <![CDATA[
                         <img src="https://farmawzrostu.com/media/posts/13/lisc-maly.JPG" alt="" />
-                    #KRYZYS MAŻŁEŃSKI
+                    #KRYZYS MAŻŁEŃSKI A jak Ty sobie radzisz z kryzysem małżeńskim? Jak Ci z tym jest? Czy chcesz zmiany? Od czego możesz zacząć dzisiaj?
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://farmawzrostu.com/media/posts/13/lisc-maly.JPG" class="type:primaryImage" alt="" /></p>
                 <p>#KRYZYS MAŻŁEŃSKI</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7NUjU3VoICQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7NUjU3VoICQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br><br></figure>
+<ul>
+<li>A jak Ty sobie radzisz z kryzysem małżeńskim?</li>
+<li>Jak Ci z tym jest?</li>
+<li>Czy chcesz zmiany?</li>
+<li>Od czego możesz zacząć dzisiaj?</li>
+</ul>
             ]]>
         </content>
     </entry>
