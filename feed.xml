@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-09-16T16:50:31+02:00</updated>
+    <updated>2024-09-16T16:57:24+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -29,7 +29,7 @@
             <![CDATA[
                     <p><img src="https://farmawzrostu.com/media/posts/13/lisc-maly.JPG" class="type:primaryImage" alt="" /></p>
                 <p>#KRYZYS MAŻŁEŃSKI</p>
-<figure class="post__video"><iframe loading="lazy" width="412" height="231" style="width: 412px; height: 231px;" src="https://www.youtube.com/embed/7NUjU3VoICQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="412" height="231" style="width: 254px; height: 141px;" src="https://www.youtube.com/embed/7NUjU3VoICQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
