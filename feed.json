@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://farmawzrostu.com/think.html",
+            "url": "https://farmawzrostu.com/think.html",
+            "title": "                                      Ambasada Mażłeńska",
+            "summary": "#Kryzys małżeński",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" alt=\"\" data-is-external-image=\"true\"></figure><span style=\"color: #bfedd2;\">#Kryzys małżeński</span></p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"253\" height=\"142\" style=\"width: 613px; height: 335px;\" src=\"https://www.youtube.com/embed/7NUjU3VoICQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<figure class=\"post__image\"><span style=\"color: #bfedd2;\"><img loading=\"lazy\"  src=\"undefined\" alt=\"\" data-is-external-image=\"true\"></figure></span></p>",
+            "image": "https://farmawzrostu.com/media/posts/13/lisc-maly.JPG",
+            "author": {
+                "name": "Wojciech Napiórkowski"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-12T14:03:44+02:00",
+            "date_modified": "2024-09-16T16:41:49+02:00"
+        },
+        {
             "id": "https://farmawzrostu.com/konkrety.html",
             "url": "https://farmawzrostu.com/konkrety.html",
             "title": "                                                 Konkrety",
