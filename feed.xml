@@ -3,12 +3,24 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-10-14T15:16:54+02:00</updated>
+    <updated>2024-10-14T16:03:31+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
     <id>https://farmawzrostu.com</id>
 
+    <entry>
+        <title>                                                 Galeria</title>
+        <author>
+            <name>Wojciech Napiórkowski</name>
+        </author>
+        <link href="https://farmawzrostu.com/galeria.html"/>
+        <id>https://farmawzrostu.com/galeria.html</id>
+
+        <updated>2024-10-14T16:00:34+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>                                      Ambasada Małżeńska</title>
         <author>
@@ -222,7 +234,7 @@ znajdź swój "sweetspot", odkryj swoje talenty i naucz się z nich korzystać</
 </tr>
 <tr style="height: 165.547px;">
 <td style="width: 100%; height: 165.547px;">
-<p class="align-center"><span style="color: #169179;"><strong>WARSZTATY DLA MAŁŻEŃSTW</strong></span></p>
+<p class="align-center"><span style="color: #169179;"><strong>WARSZTATY DLA MAŁŻEŃSTW I NARZECZONYCH</strong></span></p>
 <p class="align-center">odśwież związek, pogłębij relację - warsztaty tematyczne z pracą w parze </p>
 </td>
 </tr>
