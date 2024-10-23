@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-10-23T14:02:09+02:00</updated>
+    <updated>2024-10-23T14:19:44+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -19,7 +19,16 @@
 
         <updated>2024-10-14T16:00:34+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/330308283_1399746567446347_4702928353645863330_n.jpg" alt="" width="750" height="1334" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-xs.jpg 300w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-sm.jpg 480w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-md.jpg 768w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-lg.jpg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-xl.jpg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-2xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/KdM.jpeg" alt="" width="760" height="513" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/KdM-xs.jpeg 300w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-sm.jpeg 480w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-md.jpeg 768w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-lg.jpeg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-xl.jpeg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-2xl.jpeg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/KdM2-2.jpeg" alt="" width="1671" height="1173" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-xs.jpeg 300w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-sm.jpeg 480w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-md.jpeg 768w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-lg.jpeg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-xl.jpeg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-2xl.jpeg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/2024-09-23-at-11.03.43.jpeg" alt="" width="1536" height="2048" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.03.43-xs.jpeg 300w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.03.43-sm.jpeg 480w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.03.43-md.jpeg 768w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.03.43-lg.jpeg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.03.43-xl.jpeg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.03.43-2xl.jpeg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/2024-09-23-at-11.04.09.jpeg" alt="" width="2048" height="1536" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.09-xs.jpeg 300w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.09-sm.jpeg 480w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.09-md.jpeg 768w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.09-lg.jpeg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.09-xl.jpeg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.09-2xl.jpeg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/2024-09-23-at-11.04.36.jpeg" alt="" width="2048" height="1536" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.36-xs.jpeg 300w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.36-sm.jpeg 480w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.36-md.jpeg 768w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.36-lg.jpeg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.36-xl.jpeg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/2024-09-23-at-11.04.36-2xl.jpeg 1600w"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>                                      Ambasada Małżeńska</title>
