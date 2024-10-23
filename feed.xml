@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-10-23T14:19:44+02:00</updated>
+    <updated>2024-10-23T14:22:56+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://farmawzrostu.com/galeria.html"/>
         <id>https://farmawzrostu.com/galeria.html</id>
+        <media:content url="https://farmawzrostu.com/media/posts/14/lisc-maly3.JPG" medium="image" />
 
         <updated>2024-10-14T16:00:34+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://farmawzrostu.com/media/posts/14/lisc-maly3.JPG" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/330308283_1399746567446347_4702928353645863330_n.jpg" alt="" width="750" height="1334" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-xs.jpg 300w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-sm.jpg 480w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-md.jpg 768w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-lg.jpg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-xl.jpg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/330308283_1399746567446347_4702928353645863330_n-2xl.jpg 1600w"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/KdM.jpeg" alt="" width="760" height="513" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/KdM-xs.jpeg 300w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-sm.jpeg 480w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-md.jpeg 768w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-lg.jpeg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-xl.jpeg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/KdM-2xl.jpeg 1600w"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://farmawzrostu.com/media/posts/14/KdM2-2.jpeg" alt="" width="1671" height="1173" sizes="100vw" srcset="https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-xs.jpeg 300w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-sm.jpeg 480w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-md.jpeg 768w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-lg.jpeg 1024w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-xl.jpeg 1360w ,https://farmawzrostu.com/media/posts/14/responsive/KdM2-2-2xl.jpeg 1600w"></figure>
