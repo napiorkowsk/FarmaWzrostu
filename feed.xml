@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-11-18T11:33:18+01:00</updated>
+    <updated>2024-11-18T11:53:13+01:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -278,6 +278,8 @@ odkryj swój dobrostan, rozwiąż swoje problemy, odkryj swoje talenty.</td>
 <p>Jeżeli jesteś gotowy na zmiany i chcesz zainwestować w swój rozwój, <span style="color: #169179;"><a href="https://farmawzrostu.com/kontakt.html" style="color: #169179;">skontaktuj </a></span>się  już dziś!</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="2"> </div></div>
 <p> </p>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer="defer"></script>
+<div class="commonninja_component pid-44108719-65be-458e-ae0e-602051b4dc5e"> </div>
             ]]>
         </content>
     </entry>
