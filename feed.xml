@@ -3,7 +3,7 @@
     <title>Farma Wzrostu</title>
     <link href="https://farmawzrostu.com/feed.xml" rel="self" />
     <link href="https://farmawzrostu.com" />
-    <updated>2024-11-19T12:37:41+01:00</updated>
+    <updated>2024-11-19T12:52:49+01:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
@@ -237,6 +237,7 @@
         <link href="https://farmawzrostu.com/strona-glowna.html"/>
         <id>https://farmawzrostu.com/strona-glowna.html</id>
         <media:content url="https://farmawzrostu.com/media/posts/4/lisc-maly3-2.JPG" medium="image" />
+            <category term="Google analytics"/>
 
         <updated>2024-06-30T17:53:20+02:00</updated>
             <summary>
